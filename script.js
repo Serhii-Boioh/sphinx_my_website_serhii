@@ -156,3 +156,9 @@ document.querySelector(".translate-bnt").addEventListener("click", (e) => {
     e.preventDefault();
     changeLanguage();
 });
+
+
+
+
+
+let a = 4
