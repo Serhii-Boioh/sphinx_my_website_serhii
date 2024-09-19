@@ -163,3 +163,4 @@ document.querySelector(".translate-bnt").addEventListener("click", (e) => {
 
 let a = 4
 let b = 7
+let c = 9
